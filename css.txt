@@ -1,4 +1,4 @@
-####################################################CSS Code for buttons used in this Project
+####################################################CSS Code for widgets used in this Project: Refer Documentation.pdf for detailed view
 
 						------> LABEL:
 QLabel {
