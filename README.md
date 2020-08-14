@@ -46,7 +46,7 @@ Check below to see more Images of the GUI.
 
 ## QUICKSTART
 
-Clone/Fork the Repository to your PC, open the `/exe` folder and run the `App.exe` file to experience the GUI in a glance.
+Clone/Fork the Repository to your PC, open the `/exe` folder and run the `main.exe` file to experience the GUI in a glance(don't forget that `icons` folder is required for main.exe to work.).
 
 * If you have installed the PySide2, then try running the `main.py` 
 
