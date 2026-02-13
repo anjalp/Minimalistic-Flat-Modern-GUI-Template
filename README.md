@@ -1,7 +1,9 @@
 # Minimalistic Flat Modern GUI Template
 [![GitHub](https://img.shields.io/github/license/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=Github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template/blob/master/LICENSE) [![GitHub top language](https://img.shields.io/github/languages/top/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template) [![GitHub issues](https://img.shields.io/github/issues/anjalp/Minimalistic-Flat-Modern-GUI-Template?logo=github)](https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template/issues)
 
-A **Free** to use, Beautiful, Feature Rich, Fully Customizable Flat Modern GUI Template Using **Pyside2** designed in **Qt Designer**, supported for Windows/Linux/Mac OS, Incorporating widgets like Buttons, Progress Bar, Custom Tabs, and many more.
+A **Free** to use, Beautiful, Feature Rich, Fully Customizable Flat Modern GUI Template Using **PySide6** designed in **Qt Designer**, supported for Windows/Linux/Mac OS, Incorporating widgets like Buttons, Progress Bar, Custom Tabs, and many more.
+
+> **Note:** This project has been upgraded from PySide2 to PySide6 and requires Python 3.10 or higher.
 
 <p align="center">
   <img src="https://github.com/anjalp/Minimalistic-Flat-Modern-GUI-Template/blob/master/images/homepage.png">
@@ -36,9 +38,9 @@ Check below to see more Images of the GUI.
 
 * Intermediate Python User
 
-* Comfortable in coding Pyside2/PyQt5/PyQt4 or has been using any other Python GUI package(refer to Resource section).
+* Comfortable in coding PySide6/PyQt6/PySide2/PyQt5 or has been using any other Python GUI package(refer to Resource section).
 
-* Install [PySide2](https://pypi.org/project/PySide2/), [Qt Designer](https://build-system.fman.io/qt-designer-download)
+* Install [PySide6](https://pypi.org/project/PySide6/), [Qt Designer](https://build-system.fman.io/qt-designer-download)
 
 * Comfortable in using Qt Designer.
 
@@ -48,7 +50,7 @@ Check below to see more Images of the GUI.
 
 Clone/Fork the Repository to your PC, open the `/exe` folder and run the `main.exe` file to experience the GUI in a glance(don't forget that `icons` folder is required for main.exe to work.).
 
-* If you have installed the PySide2, then try running the `main.py` 
+* If you have installed the PySide6, then try running the `main.py` 
 
   ```basic
   C:/User/home/minimalistic-flat-modern-ui>python3 main.py
@@ -150,16 +152,16 @@ For Complete Documentation check the `Documentation.pdf`. Each python file is co
 
 ## RESOURCES
 
-* Python Library used: [Pyside2](https://pypi.org/project/PySide2/)
+* Python Library used: [PySide6](https://pypi.org/project/PySide6/)
 
 * Qt Designer : [Download](https://build-system.fman.io/qt-designer-download)
 
-* Python Basic Pyside2 Programming:
-  * [Parwiz Forogh](https://www.youtube.com/watch?v=oQTxJrDRCxg&list=PL1FgJUcJJ03tiCC6a7sF8NKLBPY4jRjmS) PySide2 GUI Tutorial in his YouTube Channel: **One of the Best for Beginners**.
-  * GeekForGeek: best Guides for PySide2/PyQt5.
+* Python Basic PySide6 Programming:
+  * [Parwiz Forogh](https://www.youtube.com/watch?v=oQTxJrDRCxg&list=PL1FgJUcJJ03tiCC6a7sF8NKLBPY4jRjmS) PySide2 GUI Tutorial in his YouTube Channel: **One of the Best for Beginners** (concepts apply to PySide6).
+  * GeekForGeek: best Guides for PySide6/PyQt6.
 
-  * Tutorial Point [PyQt Tutorials](https://www.tutorialspoint.com/pyqt/index.htm): Even though they are for the PyQt4, almost work with PySide2. 
-* Pyside2 Stylesheet Documentation: [Qt For Python](https://doc.qt.io/qtforpython/overviews/stylesheet-examples.html)
+  * Tutorial Point [PyQt Tutorials](https://www.tutorialspoint.com/pyqt/index.htm): Even though they are for the PyQt4, almost work with PySide6. 
+* PySide6 Stylesheet Documentation: [Qt For Python](https://doc.qt.io/qtforpython/overviews/stylesheet-examples.html)
 
 ## SUPPORT
 

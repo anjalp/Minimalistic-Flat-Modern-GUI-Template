@@ -1,0 +1,8 @@
+# Minimalistic Flat Modern GUI Template
+# Requirements for PySide6 and Python 3.10+
+
+# GUI Framework
+PySide6>=6.6.0
+
+# Python version requirement
+# Requires Python >=3.10, <3.14 (when available)
